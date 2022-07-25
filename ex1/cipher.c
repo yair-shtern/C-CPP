@@ -1,5 +1,5 @@
 //
-// Created by yair.shtern
+// Created by yair shtern
 //
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,5 +1,5 @@
 //
-// Created by yair.shtern on 29/05/2021.
+// Created by yair shtern on 29/05/2021.
 //
 
 #include "vector.h"

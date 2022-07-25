@@ -1,5 +1,5 @@
 //
-// Created by yair.shtern on 17/06/2021.
+// Created by yair shtern on 17/06/2021.
 //
 
 #ifndef _VL_VECTOR_H_

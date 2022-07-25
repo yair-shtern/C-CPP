@@ -1,5 +1,5 @@
 //
-// Created by yair.shtern on 5/05/2021.
+// Created by yair shtern on 5/05/2021.
 //
 #include <stdio.h>
 #include <stdlib.h>

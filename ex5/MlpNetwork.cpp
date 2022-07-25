@@ -1,5 +1,5 @@
 //
-// Created by yair.shtern on 04/06/2021.
+// Created by yair shtern on 04/06/2021.
 //
 
 #include "MlpNetwork.h"
